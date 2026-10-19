@@ -16,7 +16,6 @@
                 <a href="/donations" class="text-gray-700 hover:text-blue-600">Donations</a>
             </div>
          </div>
-        
     </nav>
 </head>
 
